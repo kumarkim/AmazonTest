@@ -1,0 +1,27 @@
+[INFO ] 2022-04-16 18:15:17.052 [main] SearchPageSteps - Navigating to the URL
+[ERROR] 2022-04-16 18:15:17.053 [main] SearchPageSteps - ERROR Navigating to the URL
+[WARN ] 2022-04-16 18:15:17.054 [main] SearchPageSteps - WARN Navigating to the URL
+[FATAL] 2022-04-16 18:15:17.054 [main] SearchPageSteps - FATAL Navigating to the URL
+[INFO ] 2022-04-16 18:20:24.804 [main] ApplicationHooks - Driver Registered
+[INFO ] 2022-04-16 18:20:24.824 [main] SearchPageSteps - User is on amazon search page
+[INFO ] 2022-04-16 18:36:49.958 [main] SearchPageSteps - User is on amazon search page
+[INFO ] 2022-04-16 18:36:49.960 [main] DriverListner - Before  NavgateNavigating to URLhttps://www.amazon.in/
+[INFO ] 2022-04-16 18:36:51.278 [main] DriverListner - After Navigate , Capture the Screenshot here
+[INFO ] 2022-04-16 18:38:11.610 [main] SearchPageSteps - User is on amazon search page
+[INFO ] 2022-04-16 18:38:18.855 [main] DriverListner - Before  NavgateNavigating to URLhttps://www.amazon.in/
+[INFO ] 2022-04-16 18:38:27.319 [main] DriverListner - After Navigate , Capture the Screenshot here
+[INFO ] 2022-04-16 18:39:11.688 [main] SearchPageSteps - User is on amazon search page
+[INFO ] 2022-04-16 18:39:14.586 [main] DriverListner - Before  NavgateNavigating to URLhttps://www.amazon.in/
+[INFO ] 2022-04-16 18:39:18.480 [main] DriverListner - After Navigate , Capture the Screenshot here
+[INFO ] 2022-04-16 18:39:32.124 [main] DriverListner - Before findyBy WebELement:By.id: twotabsearchtextbox
+[INFO ] 2022-04-16 18:39:32.169 [main] DriverListner - After findyBy WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: twotabsearchtextbox]
+[INFO ] 2022-04-16 18:39:32.172 [main] DriverListner - Before changing value on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: twotabsearchtextbox]
+[INFO ] 2022-04-16 18:39:32.317 [main] DriverListner - After changing value on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: twotabsearchtextbox]
+[INFO ] 2022-04-16 18:39:37.430 [main] DriverListner - Before findyBy WebELement:By.id: nav-search-submit-button
+[INFO ] 2022-04-16 18:39:37.450 [main] DriverListner - After findyBy WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: nav-search-submit-button]
+[INFO ] 2022-04-16 18:39:37.450 [main] DriverListner - Before clicking on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: nav-search-submit-button]
+[INFO ] 2022-04-16 18:39:39.377 [main] DriverListner - After clicking on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> id: nav-search-submit-button]
+[INFO ] 2022-04-16 18:39:47.063 [main] DriverListner - Before findyBy WebELement:By.xpath: (//span[text()='Kim'])[1]
+[INFO ] 2022-04-16 18:39:47.116 [main] DriverListner - After findyBy WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> xpath: (//span[text()='Kim'])[1]]
+[INFO ] 2022-04-16 18:39:47.116 [main] DriverListner - Before clicking on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> xpath: (//span[text()='Kim'])[1]]
+[INFO ] 2022-04-16 18:39:47.262 [main] DriverListner - After clicking on  WebELement:[[EdgeDriver: msedge on WINDOWS (7c76011aa7386d7e1c90cd70b5939d17)] -> xpath: (//span[text()='Kim'])[1]]
