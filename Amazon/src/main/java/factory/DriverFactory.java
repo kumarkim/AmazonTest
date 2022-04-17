@@ -14,8 +14,9 @@ public class DriverFactory {
 	public WebDriver  driver;
 	public static ThreadLocal <WebDriver>tlDrvier = new ThreadLocal<WebDriver>();
 	
-	
+	//Construco
 	private DriverFactory() {
+		
 		
 	}
 	
