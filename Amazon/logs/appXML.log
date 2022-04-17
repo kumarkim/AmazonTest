@@ -1,6 +1,7 @@
 [INFO ] 2022-04-16 18:15:17.052 [main] SearchPageSteps - Navigating to the URL
 [ERROR] 2022-04-16 18:15:17.053 [main] SearchPageSteps - ERROR Navigating to the URL
 [WARN ] 2022-04-16 18:15:17.054 [main] SearchPageSteps - WARN Navigating to the URL
+
 [FATAL] 2022-04-16 18:15:17.054 [main] SearchPageSteps - FATAL Navigating to the URL
 [INFO ] 2022-04-16 18:20:24.804 [main] ApplicationHooks - Driver Registered
 [INFO ] 2022-04-16 18:20:24.824 [main] SearchPageSteps - User is on amazon search page
